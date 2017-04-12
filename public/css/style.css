@@ -1,0 +1,16 @@
+
+  .navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  .jumbotron{
+    background-image: url(http://www.wallpaperskid.com/wallpaper-images/233/calm-beautiful-scenery-FtcJQB.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #home{
+    background-image: url(http://renatures.com/wp-content/uploads/2016/09/beaches-ocean-beach-clouds-peaceful-nature-grass-landscape-sea-calming-sky-scenery-wallpaper-best.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
