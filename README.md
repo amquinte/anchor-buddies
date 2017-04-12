@@ -1,15 +1,12 @@
-# Timely Holistic Care
+# Anchor Buddies Webpage
 
 A Node.js app for local dispensary.
-[THC Website](https://murmuring-reef-60039.herokuapp.com/)
+[Anchor Buddies Website](https://anchor-buddies.herokuapp.com/)
 
 ## Documentation
 
-Developed using the MEAN stack.
+Developed using Node.js and Heroku.
 
 ## To Do:
 
-- [ ] Implement login/register functionality using Angular
-- [ ] Allow users to leave reviews using Angular and MongoDB
-- [ ] Complete the menu page using Angular and Bootsrap
-- [ ] Make menu page dynamic so that logged in  admins can easily update menu
+- [ ] Finish Team Page
