@@ -4,13 +4,11 @@
     border-radius: 0;
   }
   #about-pic{
-    background-image: url(http://www.wallpaperskid.com/wallpaper-images/233/calm-beautiful-scenery-FtcJQB.jpeg);
+    background-image: url(/images/calm-scenary.jpg);
   }
 
   #home{
     background-image: url(/images/Geisel_West_UCSD.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
     min-height: 750px;
   }
 
