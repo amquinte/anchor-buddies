@@ -13,5 +13,9 @@
     background-image: url(http://www.cw6sandiego.com/wp-content/uploads/2016/01/Geisel_West_UCSD.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 1000px;
+    min-height: 500px;
+  }
+
+  #team-pic{
+    background-color: red;
   }
