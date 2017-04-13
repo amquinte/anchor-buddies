@@ -7,12 +7,14 @@
 
   #about-pic{
     background-image: url(/images/calm-scenary.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   #home{
     background-image: url(/images/UCSD.jpg);
     background-size: cover;
-
+    background-repeat: no-repeat;
     min-height: 700px;
   }
 
