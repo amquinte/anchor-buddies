@@ -3,6 +3,13 @@
     margin-bottom: 0;
     border-radius: 0;
   }
+
+  h2 {
+  font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  }
+  
   #about-pic{
     background-image: url(http://www.wallpaperskid.com/wallpaper-images/233/calm-beautiful-scenery-FtcJQB.jpeg);
   }
