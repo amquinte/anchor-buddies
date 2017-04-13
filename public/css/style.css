@@ -4,11 +4,13 @@
     border-radius: 0;
   }
   #about-pic{
-    background-image: url(/images/calm-scenary.jpg);
+    background-image: url(/images/calm-scenary.jpeg);
   }
 
   #home{
     background-image: url(/images/Geisel_West_UCSD.jpg);
+    background-size: cover;
+
     min-height: 750px;
   }
 
