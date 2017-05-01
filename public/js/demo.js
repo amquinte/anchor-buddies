@@ -11,7 +11,7 @@ function isValidUsername(){
       return true;
     }
     else{
-      document.getElementById('p1').innerHTML = "Invalid Username";
+      document.getElementById('p2').innerHTML = "Invalid Username";
       return false;
     }
 }
