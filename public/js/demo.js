@@ -7,11 +7,11 @@ function isValidUsername(){
     var userNameOK = pattern.test(userName);
 
     if(userNameOK){
-      document.getElementById('p1').innerHTML = "Valid Username<span class='glyphicon glyphicon-ok'></span>";
+      document.getElementById('p1').innerHTML = "Valid Username <span class='glyphicon glyphicon-ok'></span>";
       return true;
     }
     else{
-      document.getElementById('p1').innerHTML = "Invalid Username";
+      document.getElementById('p1').innerHTML = "Invalid Username <span class='glyphicon glyphicon-remove'></span>";
       return false;
     }
 }
