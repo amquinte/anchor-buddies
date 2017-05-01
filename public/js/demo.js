@@ -8,10 +8,12 @@ function isValidUsername(){
 
     if(userNameOK){
       document.getElementById('p1').innerHTML = "Valid Username <span class='glyphicon glyphicon-ok'></span>";
+      document.getElementById('p1').setAttribute("class","bg-success");
       return true;
     }
     else{
       document.getElementById('p1').innerHTML = "Invalid Username <span class='glyphicon glyphicon-remove'></span>";
+      document.getElementById('p1').setAttribute("class","bg-danger");
       return false;
     }
 }
